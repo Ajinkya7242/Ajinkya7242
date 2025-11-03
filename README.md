@@ -32,6 +32,21 @@ I'm an experienced **Android Developer** from Pune, India, passionate about buil
 - **Soft Skills**: Problem-Solving, Analytical Thinking, Communication  
 
 ## 📱 Projects
+### **Cravingly**
+- Developed Cravingly, a food delivery platform connecting customers with moms who prepare affordable, hygienic, home-cooked meals, using Kotlin and MVVM architecture. 
+- Focused on UI/UX optimization and clean architecture, promoting women’s empowerment through technology-driven home food services.
+- [**Cravingly**](https://play.google.com/store/apps/details?id=com.cta.craviingly)
+  
+### **Sipn Bourbon**
+- Built SIPN, a social networking app for bourbon enthusiasts to connect, share, discuss, and discover premium bourbon whiskeys, using Kotlin and MVVM architecture. 
+- Integrated community features, real-time discussions, and e-commerce modules for exploring and purchasing exclusive bourbons.
+- [**Sipn Bourbon**](https://play.google.com/store/apps/details?id=com.cta.sipn)
+
+### **Magic Pe**
+- Developed Magic Pe, a secure and user-friendly Android application enabling mobile recharges, bill payments, and cashback rewards using Kotlin and MVVM architecture..  
+- Implemented clean architecture patterns with ViewModel, LiveData, and Repository layers to ensure maintainability and scalability. 
+- [**Magic Pe**](https://play.google.com/store/apps/details?id=com.sg.magicpay)
+- 
 ### **Food App**
 - A meal exploration app built with **MVVM architecture** and **LiveData**.  
 - Integrated YouTube videos for additional information.  
