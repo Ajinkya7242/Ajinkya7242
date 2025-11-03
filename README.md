@@ -14,7 +14,7 @@ I'm an experienced **Android Developer** from Pune, India, passionate about buil
 ### **Satmat Technologies Pvt. Ltd.**  
 📅 *June 2023 – July 2024*  
 - Specialized in troubleshooting and resolving bugs in existing applications using **Java & Kotlin**, reducing crash rates by 30%.  
-- Developed new features and optimized app performance for projects like **MLC Data, Wazir Wallet, and SG Scanner**.  
+- Developed new features and optimized app performance for projects like **MLC Data, Wazir Wallet, Magic Pe and SG Scanner**.  
 - Worked on integrating **payment gateways and SMS gateways**.  
 
 ### **Blue Planet Info Solutions Pvt. Ltd.** *(Internship)*  
