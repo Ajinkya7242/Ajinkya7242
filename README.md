@@ -42,7 +42,7 @@ I'm an experienced **Android Developer** from Pune, India, passionate about buil
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Ajinkya Waghmode](https://www.linkedin.com/in/ajinkya-waghmode-43443129b)  
-- **Email**: ajinkyawp80@gmail.com
+- **Email**: ajinkyawp26@gmail.com
 - **Phone**: 9373126858  
 
 ---
