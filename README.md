@@ -26,8 +26,8 @@ I'm an experienced **Android Developer** from Pune, India, passionate about buil
 ## 🔧 Skills & Technologies
 - **Languages**: Kotlin, Java, XML, C, C++  
 - **Development Tools**: Android Studio, Android SDK, Git  
-- **APIs & Libraries**: RESTful APIs, Retrofit, Volley  
-- **Architecture**: MVVM  
+- **UI Frameworks & Libraries**: Jetpack Compose, Retrofit, Volley  
+- **Architecture**: MVVM,MVC
 - **Other**: Payment Gateway Integration, SMS Gateway  
 - **Soft Skills**: Problem-Solving, Analytical Thinking, Communication  
 
@@ -46,7 +46,7 @@ I'm an experienced **Android Developer** from Pune, India, passionate about buil
 - Developed Magic Pe, a secure and user-friendly Android application enabling mobile recharges, bill payments, and cashback rewards using Kotlin and MVVM architecture..  
 - Implemented clean architecture patterns with ViewModel, LiveData, and Repository layers to ensure maintainability and scalability. 
 - [**Magic Pe**](https://play.google.com/store/apps/details?id=com.sg.magicpay)
-- 
+  
 ### **Food App**
 - A meal exploration app built with **MVVM architecture** and **LiveData**.  
 - Integrated YouTube videos for additional information.  
