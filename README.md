@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajinkya Waghmode
 
 ## 🚀 About Me
-Android Developer with **2+ years of experience** building scalable and high-performance mobile applications using **Kotlin, Java, and Jetpack Compose**.
+Android Developer with **3+ years of experience** building scalable and high-performance mobile applications using **Kotlin, Java, and Jetpack Compose**.
 
 I specialize in **MVVM architecture, API integration, and performance optimization**, and have worked on real-world applications across **payments, food delivery, and social platforms**.
 
