@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ajinkya Waghmode
 
 ## 🚀 About Me
-Android Developer with **3+ years of experience** building scalable and high-performance mobile applications using **Kotlin, Java, and Jetpack Compose**. Independently developed and deployed apps with **10,000+ combined downloads** on Google Play.
+Android Developer with **3 years of experience** building scalable and high-performance mobile applications using **Kotlin, Java, and Jetpack Compose**. Independently developed and deployed apps with **10,000+ combined downloads** on Google Play.
 
 I specialize in **MVVM architecture, REST API integration, payment gateways, and performance optimization**, and have worked on real-world applications across **ed-tech, payments, food & drink delivery, social platforms, and enterprise maintenance tools**.
 
@@ -36,14 +36,6 @@ I specialize in **MVVM architecture, REST API integration, payment gateways, and
 - Owned feature development and maintenance across 4 production apps: **MLC Data, Wazir Wallet, Magic Pe, SG Scanner**  
 - Reduced production crash rates by **~30%** using **Firebase Crashlytics** and root-cause analysis  
 - Maintained code quality through **Git** version control and code reviews  
-
----
-
-### **Android Developer Intern — Blue Planet Infosolutions**
-📅 Jan 2023 – Jun 2023  
-- Developed and maintained **Smart Student, Smart Teacher, and Campus Radio** apps using **Kotlin & Java**  
-- Integrated REST APIs using **Retrofit & Volley**  
-- Resolved critical bugs, resulting in a **20% improvement in user retention** and app stability  
 
 ---
 
